@@ -4,6 +4,10 @@ Certificates
 
 ---
 
+* [Solutions Architect - Technical Essentials (Amazon Web Services)](Amazon%20Web%20Services/Solutions%20Architect%20-%20Technical%20Essentials.pdf)
+
+---
+
 * [A131 Introduction to MongoDB Charts (MongoDB University)](MongoDB%20University/A131%20Introduction%20to%20MongoDB%20Charts.pdf)
 * [A300 Atlas Security (MongoDB University)](MongoDB%20University/A300%20Atlas%20Security.pdf)
 * [M001 MongoDB Basics Charts (MongoDB University)](MongoDB%20University/M001%20MongoDB%20Basics.pdf)
